@@ -1,0 +1,22 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "isim": "json-server",
+      "aciklama": "typicode",
+      "kategoriId": 1
+    }
+  ],
+  "kategori": [
+    {
+      "id": 1,
+      "isim": "some comment"
+    }
+  ],
+  "kullanici": {
+    "id": 1,
+    "isim": "typicode",
+    "email": "email@gmail.com",
+    "sifre": "123"
+  }
+}
