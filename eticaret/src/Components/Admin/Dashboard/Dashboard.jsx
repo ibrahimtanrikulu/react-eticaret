@@ -1,19 +1,19 @@
 import React from 'react'
 
-function Footer() {
+function Dashboard() {
   return (
     <div style={Style.container}>
+      Dashboard
     </div>
   )
 }
 
-export default Footer
-
+export default Dashboard
 
 const Style = {
   container: {
     width: '100%',
-    backgroundColor: '#1976D2',
-    margin:'0px'
+    margin: '1%',
+    borderRadius: '5px',
   },
 }

@@ -1,12 +1,12 @@
 import React from 'react'
 
-function Product() {
+function Category() {
     return (
-        <div style={Style.container}>Product</div>
+        <div style={Style.container}>Category</div>
     )
 }
 
-export default Product
+export default Category
 
 const Style = {
     container: {
